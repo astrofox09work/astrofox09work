@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @astrofox09work
+- 👀 I’m interested in web programming
+- 🌱 I’m currently learning Next.js
